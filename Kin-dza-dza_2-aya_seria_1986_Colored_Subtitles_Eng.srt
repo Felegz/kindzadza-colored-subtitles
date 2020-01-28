@@ -1,0 +1,3030 @@
+1
+00:00:04,750 --> 00:00:12,049
+Brief
+CHATLAN - PATSAK
+DICTIONARY
+
+2
+00:00:13,092 --> 00:00:20,391
+Ketze - Match
+Tsak - Nose Bell
+
+3
+00:00:21,725 --> 00:00:30,818
+Etsih - Box for Prisoners
+Etselop - Policeman
+
+4
+00:00:31,861 --> 00:00:42,288
+Pepelats - Spaceship
+Gravitsapa - Pepelats Engine Part
+
+5
+00:00:44,373 --> 00:00:52,715
+Kyoo - A mild swear-word
+Koo - All other words
+
+6
+00:03:44,220 --> 00:03:45,137
+<font color=#00FF40>Hi!</font>
+
+7
+00:03:46,096 --> 00:03:47,223
+<font color=#FF8000>Hello</font>
+
+8
+00:03:47,223 --> 00:03:49,308
+<font color=#00FF40>Long time no see</font>
+
+9
+00:03:49,808 --> 00:03:51,393
+<font color=#00FF40>Bye!</font>
+
+10
+00:03:52,603 --> 00:03:54,480
+<font color=#00FF40>Just a second!</font>
+
+11
+00:03:55,397 --> 00:03:56,565
+<font color=#00FF40>I have a proposition</font>
+
+12
+00:03:58,192 --> 00:03:59,026
+<font color=#FF8000>What?</font>
+
+13
+00:04:03,781 --> 00:04:05,658
+<font color=#00FF40>What do we
+think about you?</font>
+
+14
+00:04:07,535 --> 00:04:09,411
+<font color=#00FF40>Come on, penetrate
+my brain</font>
+
+15
+00:04:13,123 --> 00:04:15,918
+<font color=#FF8000>Why are you bothering us?
+What do you want?</font>
+
+16
+00:04:16,836 --> 00:04:18,003
+<font color=#FF8000>Have you no shame?</font>
+
+17
+00:04:18,003 --> 00:04:19,630
+<font color=#00FF40>Have you?</font>
+
+18
+00:04:19,672 --> 00:04:25,261
+<font color=#00FF40>We are poor hungry artists!
+What have we ever done to you?</font>
+
+19
+00:04:25,261 --> 00:04:27,346
+<font color=#00FF40>Why are you stalking us?</font>
+
+20
+00:04:29,890 --> 00:04:31,767
+<font color=#00FF40>Give me the widget</font>
+
+21
+00:04:42,987 --> 00:04:44,822
+<font color=#00FF40>Come on</font>
+
+22
+00:04:51,370 --> 00:04:53,205
+<font color=#00FF40>One, two, three...</font>
+
+23
+00:04:54,165 --> 00:05:02,548
+<font color=#00FF40>Mother, mother,
+what will we do? Koo!</font>
+
+24
+00:05:37,041 --> 00:05:39,919
+<font color=#00FF40>Shut up,
+you're tone deaf</font>
+
+25
+00:06:08,781 --> 00:06:10,074
+<font color=#00FF40>Uncle Vova,
+let's go again!</font>
+
+26
+00:06:10,616 --> 00:06:11,784
+<font color=#00FF40>They love it!</font>
+
+27
+00:06:11,784 --> 00:06:13,869
+<font color=#00FF40>They understand it!</font>
+
+28
+00:06:14,370 --> 00:06:15,287
+<font color=#00FF40>One, two...</font>
+
+29
+00:06:16,247 --> 00:06:17,373
+<font color=#00FF40>Etselop!</font>
+
+30
+00:06:43,274 --> 00:06:45,150
+<font color=#00FF40>Artists, where's
+our deathtrap?</font>
+
+31
+00:06:45,150 --> 00:06:46,068
+<font color=#FF8000>Pepelats?</font>
+
+32
+00:06:46,068 --> 00:06:48,153
+<font color=#00FF40>Yes</font>
+
+33
+00:06:48,153 --> 00:06:49,697
+<font color=#00FF40>Over there</font>
+
+34
+00:06:49,822 --> 00:06:50,948
+<font color=#00FF40>We're out of luts</font>
+
+35
+00:06:51,657 --> 00:06:53,033
+<font color=#FF8000>All because
+of you, bitch!</font>
+
+36
+00:06:53,534 --> 00:06:56,328
+<font color=#FF8000>Fiddler! What are you doing?
+Vandal!</font>
+
+37
+00:06:57,246 --> 00:06:58,414
+<font color=#00FF40>Leave me alone!</font>
+
+38
+00:07:00,082 --> 00:07:08,674
+<font color=#00FF40>Mate, this is a last breath,
+a grave, a cemetery</font>
+
+39
+00:07:12,178 --> 00:07:14,054
+<font color=#00FF40>Mate</font>
+
+40
+00:07:15,931 --> 00:07:17,766
+<font color=#00FF40>And you say you were 'second league'</font>
+
+41
+00:07:17,808 --> 00:07:18,726
+<font color=#FF8000>He was just bragging</font>
+
+42
+00:07:18,726 --> 00:07:21,520
+<font color=#00FF40>It's not fair, you win
+because of my brains</font>
+
+43
+00:07:21,520 --> 00:07:26,192
+<font color=#FF8000>If you had brains, you'd be
+studying Foreign Politics instead
+of messing with our mood here</font>
+
+44
+00:07:26,192 --> 00:07:31,780
+<font color=#00FF40>Let's play again.
+You bet the violin,
+the case and the tooth-stick</font>
+
+45
+00:07:31,780 --> 00:07:33,616
+<font color=#FF8000>And this</font>
+
+46
+00:07:33,657 --> 00:07:34,575
+<font color=#00FF40>Ok?</font>
+
+47
+00:07:35,493 --> 00:07:42,124
+<font color=#00FF40>Ok. You bet the widget,
+visator and Mr Uef's life source</font>
+
+48
+00:07:42,958 --> 00:07:43,876
+<font color=#00FF40>Sure</font>
+
+49
+00:07:43,918 --> 00:07:45,961
+<font color=#00FF40>Let's play</font>
+
+50
+00:07:50,424 --> 00:07:56,013
+<font color=#FF8000>Uncle Vova, you have
+to twist the tsapa</font>
+
+51
+00:07:56,013 --> 00:07:56,972
+<font color=#00FF40>Here, you do it!</font>
+
+52
+00:07:56,972 --> 00:07:59,058
+<font color=#FF8000>I can't,
+I'm Chatlan</font>
+
+53
+00:07:59,767 --> 00:08:06,273
+<font color=#00FF40>Oh sure, when it
+comes to advising,
+everyone is a Chatlan!</font>
+
+54
+00:08:06,273 --> 00:08:07,191
+<font color=#00FF40>Checkmate</font>
+
+55
+00:08:08,150 --> 00:08:09,276
+<font color=#00FF40>Not fair!</font>
+
+56
+00:08:10,027 --> 00:08:11,862
+<font color=#00FF40>You thought up
+bad moves for me!</font>
+
+57
+00:08:12,821 --> 00:08:13,948
+<font color=#00FF40>You have to play
+using your brains</font>
+
+58
+00:08:13,989 --> 00:08:17,451
+<font color=#FF8000>How could he?
+He's never seen these dolls before</font>
+
+59
+00:08:17,493 --> 00:08:19,537
+<font color=#00FF40>Not my problem.
+Give me my winnings</font>
+
+60
+00:08:20,287 --> 00:08:21,622
+<font color=#FF8000>No way</font>
+
+61
+00:08:21,831 --> 00:08:28,671
+<font color=#00FF40>Uef, have you ever seen
+such a little Patsak acting like
+such a materialistic kyoo?</font>
+
+62
+00:08:28,671 --> 00:08:32,383
+<font color=#FF8000>Never. I keep saying,
+Fiddler is not needed</font>
+
+63
+00:08:34,260 --> 00:08:36,136
+<font color=#00FF40>Hey, boss!</font>
+
+64
+00:08:40,766 --> 00:08:42,643
+<font color=#00FF40>And you say - tsapa!</font>
+
+65
+00:08:51,026 --> 00:08:54,029
+<font color=#00FF40>So nobody
+sings in cages?</font>
+
+66
+00:08:55,698 --> 00:09:01,287
+<font color=#00FF40>Mr Bee, on Earth
+we only cage animals</font>
+
+67
+00:09:01,328 --> 00:09:03,372
+<font color=#00FF40>Are animals Chatlans?</font>
+
+68
+00:09:04,081 --> 00:09:07,835
+<font color=#00FF40>I don't know. Similar</font>
+
+69
+00:09:08,752 --> 00:09:09,920
+<font color=#FF8000>Is a nightingale a Patsak?</font>
+
+70
+00:09:10,629 --> 00:09:12,506
+<font color=#00FF40>Why Patsak?</font>
+
+71
+00:09:13,424 --> 00:09:16,218
+<font color=#FF8000>You said it doesn't
+sing in a cage</font>
+
+72
+00:09:16,218 --> 00:09:18,304
+<font color=#00FF40>Patsak then</font>
+
+73
+00:09:18,304 --> 00:09:24,602
+<font color=#00FF40>See, you are as
+racist as we on Pluk</font>
+
+74
+00:09:24,643 --> 00:09:28,355
+<font color=#00FF40>Only, the power belongs not
+to Chatlans, but to Patsaks</font>
+
+75
+00:09:28,355 --> 00:09:33,027
+<font color=#00FF40>Like you and your
+nightingale friend</font>
+
+76
+00:10:15,903 --> 00:10:17,780
+<font color=#00FF40>Let me</font>
+
+77
+00:10:56,944 --> 00:10:59,738
+<font color=#FF8000>Here, 4 gulps</font>
+
+78
+00:10:59,738 --> 00:11:01,824
+<font color=#00FF40>Give the water to the children</font>
+
+79
+00:11:04,493 --> 00:11:09,665
+<font color=#FF8000>You owe us 6042 boxes.
+Fiddler, write it down</font>
+
+80
+00:11:11,041 --> 00:11:11,750
+<font color=#00FF40>I have</font>
+
+81
+00:11:25,973 --> 00:11:26,891
+<font color=#00FF40>Do you want any?</font>
+
+82
+00:11:28,767 --> 00:11:30,644
+<font color=#00FF40>No</font>
+
+83
+00:11:32,479 --> 00:11:34,356
+<font color=#00FF40>It's free</font>
+
+84
+00:11:49,288 --> 00:11:52,583
+<font color=#FF8000>What are you doing?
+What about me?</font>
+
+85
+00:11:56,754 --> 00:12:00,466
+<font color=#00FF40>I'll pay 10 more boxes,
+have some water</font>
+
+86
+00:12:09,808 --> 00:12:10,726
+<font color=#00FF40>Kin-dza-dza!</font>
+
+87
+00:12:25,658 --> 00:12:26,575
+<font color=#00FF40>A boat!</font>
+
+88
+00:12:26,575 --> 00:12:30,329
+<font color=#FF8000>It's not a boat,
+it's a luts station</font>
+
+89
+00:12:30,329 --> 00:12:31,872
+<font color=#00FF40>Let's fill up!</font>
+
+90
+00:12:31,872 --> 00:12:32,706
+<font color=#FF8000>Can't</font>
+
+91
+00:12:32,706 --> 00:12:39,380
+<font color=#00FF40>It's a machine, next one
+has a woman. We'll sing -
+she'll cut us a deal, got it?</font>
+
+92
+00:12:39,630 --> 00:12:41,507
+<font color=#FF8000>Stop slacking, uncle Vova</font>
+
+93
+00:12:41,507 --> 00:12:43,592
+<font color=#00FF40>Let's go mate</font>
+
+94
+00:12:49,890 --> 00:12:51,767
+<font color=#00FF40>If this was a sea,
+why aren't there any shells?</font>
+
+95
+00:12:52,685 --> 00:12:55,479
+<font color=#FF8000>Do you still have
+seas on Earth?</font>
+
+96
+00:12:55,521 --> 00:13:02,027
+<font color=#00FF40>We have seas, rivers
+and decent people, Mr Uef</font>
+
+97
+00:13:02,945 --> 00:13:05,739
+<font color=#FF8000>You are such
+barbarians, I could cry</font>
+
+98
+00:13:34,685 --> 00:13:38,564
+<font color=#00FF40>It's a shame my boss
+can't see me, I'd get a raise</font>
+
+99
+00:13:38,564 --> 00:13:42,109
+<font color=#00FF40>Hush Uncle Vova,
+a lady is watching us</font>
+
+100
+00:14:09,178 --> 00:14:11,972
+<font color=#FF8000>They took away the woman,
+and put in a machine</font>
+
+101
+00:14:14,767 --> 00:14:19,438
+<font color=#00FF40>Buy as much as you can, we'll
+fly at least part of the way</font>
+
+102
+00:14:22,233 --> 00:14:28,739
+<font color=#FF8000>We can't. Luts are
+10 chatls per charge,
+we have only 7</font>
+
+103
+00:14:43,671 --> 00:14:44,630
+<font color=#00FF40>How far is the Centre?</font>
+
+104
+00:14:45,548 --> 00:14:47,424
+<font color=#00FF40>160 kilometers</font>
+
+105
+00:14:48,342 --> 00:14:49,510
+<font color=#00FF40>Uncle Vova!</font>
+
+106
+00:14:49,510 --> 00:14:51,595
+<font color=#00FF40>Uef has more chatls</font>
+
+107
+00:14:53,013 --> 00:14:54,890
+<font color=#00FF40>In his right boot</font>
+
+108
+00:15:02,314 --> 00:15:04,191
+<font color=#00FF40>Hey, Chatlan!</font>
+
+109
+00:15:05,109 --> 00:15:06,986
+<font color=#FF8000>What?</font>
+
+110
+00:15:07,945 --> 00:15:09,780
+<font color=#00FF40>Take off your right boot</font>
+
+111
+00:15:10,739 --> 00:15:11,866
+<font color=#FF8000>What for?</font>
+
+112
+00:15:12,575 --> 00:15:13,951
+<font color=#00FF40>Come on, koo, koo</font>
+
+113
+00:15:35,890 --> 00:15:38,684
+<font color=#FF8000>Kyoo, bitch!</font>
+
+114
+00:15:46,150 --> 00:15:47,109
+<font color=#00FF40>Squat!</font>
+
+115
+00:15:48,027 --> 00:15:50,821
+<font color=#00FF40>Why? They are not etselops</font>
+
+116
+00:15:51,447 --> 00:15:57,286
+<font color=#00FF40>It's PG and his Patsak
+You can get etsih with nails
+for life by not squatting!</font>
+
+117
+00:15:57,369 --> 00:15:58,496
+<font color=#00FF40>But who is he?</font>
+
+118
+00:16:09,465 --> 00:16:11,342
+<font color=#00FF40>Did you see that?</font>
+
+119
+00:16:11,342 --> 00:16:14,136
+<font color=#00FF40>Yeah. It's a hologram, mate!</font>
+
+120
+00:16:14,136 --> 00:16:15,095
+<font color=#00FF40>The Violin!</font>
+
+121
+00:16:19,725 --> 00:16:23,479
+<font color=#00FF40>Calm down! Freeze!</font>
+
+122
+00:16:29,985 --> 00:16:31,862
+<font color=#00FF40>And you said - koo!</font>
+
+123
+00:16:49,672 --> 00:16:54,385
+<font color=#FF8000>It's not a blimp moron,
+it's the last breath of Mr PG</font>
+
+124
+00:16:54,385 --> 00:16:55,302
+<font color=#00FF40>Rubbish</font>
+
+125
+00:16:57,221 --> 00:17:01,934
+<font color=#00FF40>How could one man breathe
+so much air while dying?
+It's absurd</font>
+
+126
+00:17:02,852 --> 00:17:05,688
+<font color=#00FF40>What are you saying!
+PG is alive!
+And I'm happy!</font>
+
+127
+00:17:06,647 --> 00:17:08,524
+<font color=#FF8000>I'm even happier</font>
+
+128
+00:17:51,942 --> 00:17:53,819
+<font color=#00FF40>Climb inside</font>
+
+129
+00:17:53,819 --> 00:17:54,737
+<font color=#00FF40>Plastic?</font>
+
+130
+00:17:55,321 --> 00:17:56,030
+<font color=#00FF40>No</font>
+
+131
+00:17:56,655 --> 00:17:59,492
+<font color=#00FF40>Is there a normal way
+into this supermarket?</font>
+
+132
+00:17:59,492 --> 00:18:03,245
+<font color=#00FF40>To get in normally, we have
+to pay in chatls mate</font>
+
+133
+00:19:11,272 --> 00:19:12,064
+<font color=#00FF40>Let's go</font>
+
+134
+00:19:12,106 --> 00:19:13,065
+<font color=#FF8000>Get lost!</font>
+
+135
+00:19:52,688 --> 00:19:55,524
+<font color=#FF8000>Fiddler, Patsaks go there</font>
+
+136
+00:20:16,253 --> 00:20:17,213
+<font color=#00FF40>What are they doing?</font>
+
+137
+00:20:18,172 --> 00:20:21,926
+<font color=#00FF40>It's Mr PG's fourth pump</font>
+
+138
+00:20:21,926 --> 00:20:24,011
+<font color=#00FF40>I love PG very much!</font>
+
+139
+00:20:24,011 --> 00:20:26,096
+<font color=#FF8000>I koo him even more!</font>
+
+140
+00:20:50,246 --> 00:20:53,999
+<font color=#00FF40>Here they make
+water out of luts</font>
+
+141
+00:21:23,445 --> 00:21:25,114
+<font color=#00FF40>What are they saying?</font>
+
+142
+00:21:25,322 --> 00:21:27,324
+<font color=#00FF40>They are selling</font>
+
+143
+00:21:28,993 --> 00:21:30,911
+<font color=#00FF40>What are they selling?</font>
+
+144
+00:21:31,036 --> 00:21:32,997
+<font color=#FF8000>Everything</font>
+
+145
+00:21:32,997 --> 00:21:34,665
+<font color=#00FF40>Let's buy a gravitsapa!</font>
+
+146
+00:21:35,624 --> 00:21:36,750
+<font color=#00FF40>It's in another department</font>
+
+147
+00:21:38,460 --> 00:21:41,255
+<font color=#00FF40>We first need to find out
+Earth's tentura number</font>
+
+148
+00:21:47,887 --> 00:21:50,723
+<font color=#FF8000>Yellow pants - koo twice!</font>
+
+149
+00:22:18,167 --> 00:22:23,339
+<font color=#00FF40>Think of the orbit diameter
+of your planet</font>
+
+150
+00:22:24,757 --> 00:22:25,716
+<font color=#00FF40>I don't remember</font>
+
+151
+00:22:26,675 --> 00:22:27,801
+<font color=#00FF40>Fiddler, you do it</font>
+
+152
+00:22:27,801 --> 00:22:29,887
+<font color=#FF8000>Fiddler isn't needed,
+you do it!</font>
+
+153
+00:22:31,388 --> 00:22:33,265
+<font color=#00FF40>Oh, all right</font>
+
+154
+00:22:36,101 --> 00:22:39,855
+<font color=#00FF40>Think of your planets
+core density</font>
+
+155
+00:22:39,897 --> 00:22:42,691
+<font color=#00FF40>Density?
+I can't remember</font>
+
+156
+00:22:42,900 --> 00:22:44,777
+<font color=#00FF40>I see</font>
+
+157
+00:22:46,487 --> 00:22:51,200
+<font color=#00FF40>Think of the planets in your Galaxy,
+as many as you know</font>
+
+158
+00:22:53,077 --> 00:22:55,913
+<font color=#00FF40>Jupiter, Mars, Venus...</font>
+
+159
+00:22:55,913 --> 00:22:59,667
+<font color=#00FF40>Where is my divination crystal?
+It was right there!</font>
+
+160
+00:23:00,417 --> 00:23:02,086
+<font color=#FF8000>Fiddler, put it back!</font>
+
+161
+00:23:02,503 --> 00:23:07,216
+<font color=#00FF40>I thought it was just a
+piece of glass, rubbish</font>
+
+162
+00:23:09,134 --> 00:23:11,011
+<font color=#FF8000>Stupid cow</font>
+
+163
+00:23:12,888 --> 00:23:13,848
+<font color=#00FF40>Enough</font>
+
+164
+00:23:13,848 --> 00:23:16,684
+<font color=#00FF40>Stop rattling your brains moron</font>
+
+165
+00:23:17,601 --> 00:23:19,478
+<font color=#00FF40>Here is your planet</font>
+
+166
+00:23:19,520 --> 00:23:23,274
+<font color=#00FF40>Here is your planet: 013 in tentura,
+just left of Ursa Major</font>
+
+167
+00:23:24,191 --> 00:23:27,027
+<font color=#00FF40>If you want to talk,
+that's extra</font>
+
+168
+00:23:27,069 --> 00:23:27,987
+<font color=#00FF40>Pardon?</font>
+
+169
+00:23:27,987 --> 00:23:30,072
+<font color=#FF8000>Think of your phone number</font>
+
+170
+00:23:32,700 --> 00:23:35,536
+<font color=#FF8000>And tell them about the matches</font>
+
+171
+00:23:48,757 --> 00:23:51,760
+<font color=#00FF40>Hello, I'm listening</font>
+
+172
+00:23:51,802 --> 00:23:53,179
+<font color=#00FF40>Speak there</font>
+
+173
+00:23:55,347 --> 00:23:58,184
+<font color=#00FF40>Hello, I'm listening!</font>
+
+174
+00:24:01,020 --> 00:24:02,897
+<font color=#00FF40>Speak, time is money</font>
+
+175
+00:24:02,897 --> 00:24:04,982
+<font color=#00FF40>Hello, Lucy</font>
+
+176
+00:24:04,982 --> 00:24:05,733
+<font color=#00FF40>Vovka?</font>
+
+177
+00:24:05,733 --> 00:24:07,818
+<font color=#00FF40>Can you hear me ok? It's me!</font>
+
+178
+00:24:08,569 --> 00:24:09,904
+<font color=#00FF40>Vovka, where are you?</font>
+
+179
+00:24:11,363 --> 00:24:14,200
+<font color=#00FF40>I'm here. How are you?</font>
+
+180
+00:24:14,241 --> 00:24:15,367
+<font color=#00FF40>How's our son?</font>
+
+181
+00:24:15,409 --> 00:24:17,995
+<font color=#00FF40>Where are you, Vovka?</font>
+
+182
+00:24:17,995 --> 00:24:21,749
+<font color=#00FF40>I'm here, in this place,
+I'll explain later</font>
+
+183
+00:24:22,708 --> 00:24:26,462
+<font color=#00FF40>How's mum?
+Have you seen her?</font>
+
+184
+00:24:26,504 --> 00:24:31,175
+<font color=#00FF40>Yes I have. I'm asking you,
+where are you?</font>
+
+185
+00:24:33,093 --> 00:24:39,683
+<font color=#FF8000>Hey, she-Patsak, quit messing with us,
+go buy two crates of ketse!
+Or we'll find him another...</font>
+
+186
+00:24:39,683 --> 00:24:46,273
+<font color=#00FF40>Lucy!</font>
+
+187
+00:24:46,315 --> 00:24:48,359
+<font color=#00FF40>My dear!</font>
+
+188
+00:24:48,400 --> 00:24:50,444
+<font color=#00FF40>Lucy!</font>
+
+189
+00:24:50,986 --> 00:24:59,495
+<font color=#00FF40>Call Manokhin, tell him
+that the keys to the
+building store are in my office,</font>
+
+190
+00:24:59,495 --> 00:25:03,249
+<font color=#00FF40>under the cabinet,
+do you understand?</font>
+
+191
+00:25:04,208 --> 00:25:07,127
+<font color=#00FF40>Oh, I understand</font>
+
+192
+00:25:08,921 --> 00:25:14,593
+<font color=#00FF40>Please dial Batumi 3-47-57
+and ask for Alik</font>
+
+193
+00:25:14,593 --> 00:25:18,347
+<font color=#00FF40>No.
+Get lost thief</font>
+
+194
+00:25:45,708 --> 00:25:47,835
+<font color=#00FF40>Is something wrong?</font>
+
+195
+00:25:51,380 --> 00:25:55,176
+<font color=#00FF40>Everything's fine,
+but Earth is very far away</font>
+
+196
+00:25:55,176 --> 00:25:57,970
+<font color=#00FF40>It will take 7 minutes instead of 5</font>
+
+197
+00:25:58,012 --> 00:26:01,765
+<font color=#00FF40>Let's go and prepare some
+tsapa for the gravitsapa</font>
+
+198
+00:26:02,683 --> 00:26:06,478
+<font color=#00FF40>Astronauts!
+Which one is tsapa?</font>
+
+199
+00:26:06,478 --> 00:26:08,564
+<font color=#00FF40>It's a rusty metal nut mate</font>
+
+200
+00:26:11,192 --> 00:26:13,068
+<font color=#00FF40>Everything is rusty here</font>
+
+201
+00:26:14,028 --> 00:26:16,864
+<font color=#00FF40>That one is the rustiest</font>
+
+202
+00:26:22,495 --> 00:26:25,331
+<font color=#00FF40>What are you doing,
+are you nuts?</font>
+
+203
+00:26:26,290 --> 00:26:33,839
+<font color=#FF8000>Wow, Lucy and Manokhin
+have been transported!</font>
+
+204
+00:26:43,265 --> 00:26:46,101
+<font color=#00FF40>Uncle Vova!
+The match was in the hat!</font>
+
+205
+00:26:47,061 --> 00:26:48,938
+<font color=#00FF40>Weird. Why would they leave?</font>
+
+206
+00:26:49,855 --> 00:26:53,651
+<font color=#00FF40>Weird? They have a match
+to buy a gravitsapa, and
+they know where Earth is!</font>
+
+207
+00:26:56,487 --> 00:27:02,117
+<font color=#00FF40>Comrade etselop!</font>
+
+208
+00:27:02,159 --> 00:27:04,203
+<font color=#00FF40>They stole from us!</font>
+
+209
+00:27:04,954 --> 00:27:06,288
+<font color=#00FF40>Please catch them!</font>
+
+210
+00:27:13,254 --> 00:27:14,296
+<font color=#FF8000>40 chatls</font>
+
+211
+00:27:15,339 --> 00:27:19,134
+<font color=#00FF40>Our money is with the guide.
+That's not even my violin!</font>
+
+212
+00:27:20,052 --> 00:27:25,724
+<font color=#00FF40>They did not koo in
+front of a video of PG.
+What are you staring at?</font>
+
+213
+00:27:25,724 --> 00:27:33,274
+<font color=#00FF40>I'll tell that you knew and did nothing,
+you'll be fucking trangluked! Right?</font>
+
+214
+00:27:34,233 --> 00:27:37,987
+<font color=#FF8000>I didn't do nothing.
+I pressed the kappa at once</font>
+
+215
+00:27:37,987 --> 00:27:40,072
+<font color=#FF8000>Fiddler is a witness</font>
+
+216
+00:27:41,740 --> 00:27:45,536
+<font color=#FF8000>Calling all patrols!</font>
+
+217
+00:27:48,372 --> 00:27:51,000
+<font color=#00FF40>There's nothing there</font>
+
+218
+00:27:51,208 --> 00:27:53,085
+<font color=#FF8000>Open it</font>
+
+219
+00:27:53,085 --> 00:27:55,171
+<font color=#00FF40>Let them see</font>
+
+220
+00:28:08,184 --> 00:28:10,060
+<font color=#00FF40>It's vinegar</font>
+
+221
+00:28:11,020 --> 00:28:12,897
+<font color=#FF8000>That's none of your business</font>
+
+222
+00:28:25,159 --> 00:28:31,749
+<font color=#FF8000>The Patsak will be trangluked,
+the Chatlan gets etsih
+for life - with nails</font>
+
+223
+00:28:37,421 --> 00:28:45,930
+<font color=#00FF40>Brother Patsak tell them
+the truth, that I squatted,
+it was this Chatlan...</font>
+
+224
+00:28:50,643 --> 00:28:53,479
+<font color=#FF8000>Shut up parasite!</font>
+
+225
+00:28:53,479 --> 00:28:55,356
+<font color=#00FF40>You shut up!</font>
+
+226
+00:28:56,273 --> 00:29:00,986
+<font color=#FF8000>Vovka, my friend!
+Gedevan Alexandrovich!</font>
+
+227
+00:29:01,028 --> 00:29:03,072
+<font color=#FF8000>Tell them it was him!</font>
+
+228
+00:29:03,113 --> 00:29:05,157
+<font color=#FF8000>He was the one
+who did not squat</font>
+
+229
+00:29:05,199 --> 00:29:06,659
+<font color=#FF8000>And I will give
+you the Pepelats</font>
+
+230
+00:29:06,659 --> 00:29:08,744
+<font color=#00FF40>Uncle Vova,
+the Pepelats is mine!</font>
+
+231
+00:29:10,454 --> 00:29:14,208
+<font color=#00FF40>Calm down</font>
+
+232
+00:29:18,003 --> 00:29:23,634
+<font color=#00FF40>Everything's fine.
+Everybody squatted like monkeys.
+I was wrong</font>
+
+233
+00:29:25,553 --> 00:29:27,429
+<font color=#00FF40>And it was me who
+brought the ketse here</font>
+
+234
+00:29:30,266 --> 00:29:32,142
+<font color=#FF8000>What ketse?</font>
+
+235
+00:29:33,102 --> 00:29:35,896
+<font color=#00FF40>That match you
+took out of the hat</font>
+
+236
+00:29:35,938 --> 00:29:37,982
+<font color=#FF8000>There was no match</font>
+
+237
+00:29:38,732 --> 00:29:40,609
+<font color=#00FF40>Uncle Vova, mate,
+what are you saying!</font>
+
+238
+00:29:40,651 --> 00:29:42,695
+<font color=#00FF40>Sorry, I forgot</font>
+
+239
+00:29:43,445 --> 00:29:44,780
+<font color=#00FF40>There was no match</font>
+
+240
+00:29:45,823 --> 00:29:46,866
+<font color=#00FF40>There was no match</font>
+
+241
+00:29:50,077 --> 00:29:58,544
+<font color=#FF8000>You two, etsih without nails - for life.
+Until the fee of 500 chatls is paid</font>
+
+242
+00:29:59,503 --> 00:30:00,629
+<font color=#FF8000>Thank you!</font>
+
+243
+00:30:01,380 --> 00:30:04,216
+<font color=#FF8000>Patsak, fix the violin and sing</font>
+
+244
+00:30:05,176 --> 00:30:07,970
+<font color=#FF8000>Fiddler, work that widget!</font>
+
+245
+00:30:08,012 --> 00:30:11,765
+<font color=#00FF40>Guys, we were just kidding,
+we thought it would be a laugh!</font>
+
+246
+00:30:12,725 --> 00:30:14,602
+<font color=#FF8000>See you!</font>
+
+247
+00:30:32,536 --> 00:30:35,331
+<font color=#00FF40>Hello, Earthling!</font>
+
+248
+00:30:35,372 --> 00:30:40,044
+<font color=#00FF40>I knew one day your explorations
+would carry you to this planet</font>
+
+249
+00:30:42,880 --> 00:30:46,675
+<font color=#00FF40>Greetings from
+Vladimir Nickolaevich Moshkov,</font>
+
+250
+00:30:46,675 --> 00:30:48,761
+<font color=#00FF40>construction foreman from Moskow</font>
+
+251
+00:30:48,761 --> 00:30:50,846
+<font color=#00FF40>and Gedevan Alexidze
+from Batumi</font>
+
+252
+00:30:50,846 --> 00:30:57,061
+<font color=#00FF40>We were the first to set foot
+onto this wretched sand in the
+backwater of the Universe</font>
+
+253
+00:30:58,938 --> 00:31:01,774
+<font color=#00FF40>Brother Patsak
+add some fuel</font>
+
+254
+00:31:01,774 --> 00:31:03,859
+<font color=#00FF40>Give me something else then</font>
+
+255
+00:31:16,872 --> 00:31:23,462
+<font color=#00FF40>Maybe by this time,
+some people who knew
+me are still alive</font>
+
+256
+00:31:23,462 --> 00:31:27,216
+<font color=#00FF40>Please tell them that
+I did not steal the violin...</font>
+
+257
+00:31:27,258 --> 00:31:29,301
+<font color=#00FF40>Look, good as new</font>
+
+258
+00:31:35,724 --> 00:31:38,561
+<font color=#00FF40>Here is another piece</font>
+
+259
+00:31:38,561 --> 00:31:42,314
+<font color=#00FF40>Yeah, this sort of
+thing can happen</font>
+
+260
+00:31:54,577 --> 00:31:56,495
+<font color=#00FF40>Is it nutritious?</font>
+
+261
+00:31:56,495 --> 00:32:01,208
+<font color=#00FF40>Earthlings!
+You really shouldn't have
+pressed it like that</font>
+
+262
+00:32:01,208 --> 00:32:04,962
+<font color=#00FF40>I only found you
+thanks to the dial memory</font>
+
+263
+00:32:04,962 --> 00:32:07,798
+<font color=#00FF40>I'm returning your sock,
+thank you</font>
+
+264
+00:32:08,757 --> 00:32:11,594
+<font color=#00FF40>If you wish,
+I can transport
+you back to Earth,</font>
+
+265
+00:32:11,594 --> 00:32:13,679
+<font color=#00FF40>I found out your tentura number</font>
+
+266
+00:32:13,679 --> 00:32:18,559
+<font color=#00FF40>But you have to hurry,
+one second here
+is half a year there</font>
+
+267
+00:32:19,226 --> 00:32:20,436
+<font color=#00FF40>I have a proposition</font>
+
+268
+00:32:20,436 --> 00:32:24,565
+<font color=#00FF40>We go to Earth,
+get some matches,
+go back, sell them...</font>
+
+269
+00:32:24,565 --> 00:32:26,650
+<font color=#00FF40>get our guys
+out of the jail,...</font>
+
+270
+00:32:26,650 --> 00:32:28,486
+<font color=#00FF40>go to Moscow
+and you go home</font>
+
+271
+00:32:28,736 --> 00:32:30,279
+<font color=#00FF40>I can't do that,
+I only have 3 charges</font>
+
+272
+00:32:30,488 --> 00:32:31,447
+<font color=#00FF40>That's great!</font>
+
+273
+00:32:32,281 --> 00:32:35,493
+<font color=#00FF40>Enough to go there,
+here and back again</font>
+
+274
+00:32:36,202 --> 00:32:37,953
+<font color=#00FF40>And what about me?</font>
+
+275
+00:32:39,163 --> 00:32:40,456
+<font color=#00FF40>Listen, freind</font>
+
+276
+00:32:50,674 --> 00:32:51,842
+<font color=#00FF40>Make up your mind</font>
+
+277
+00:32:52,218 --> 00:32:53,969
+<font color=#00FF40>I'm counting to three.
+One...</font>
+
+278
+00:32:54,345 --> 00:32:54,929
+<font color=#00FF40>Wait</font>
+
+279
+00:32:54,929 --> 00:32:55,513
+<font color=#00FF40>Two...</font>
+
+280
+00:32:56,138 --> 00:32:59,558
+<font color=#00FF40>Please understand,
+they are in jail
+because of me</font>
+
+281
+00:32:59,808 --> 00:33:02,520
+<font color=#00FF40>And my little son has
+a beard like this by now!</font>
+
+282
+00:33:03,103 --> 00:33:04,605
+<font color=#00FF40>Two and a half...</font>
+
+283
+00:33:04,897 --> 00:33:06,398
+<font color=#00FF40>Two and a half!</font>
+
+284
+00:33:06,440 --> 00:33:08,484
+<font color=#00FF40>I cannot do this</font>
+
+285
+00:33:09,777 --> 00:33:11,403
+<font color=#00FF40>Three</font>
+
+286
+00:33:29,797 --> 00:33:31,841
+<font color=#00FF40>Who needs all this stuff?</font>
+
+287
+00:33:32,550 --> 00:33:35,135
+<font color=#00FF40>Stupid tsaks,
+all this rubbish...</font>
+
+288
+00:33:35,511 --> 00:33:36,679
+<font color=#00FF40>We'll never...</font>
+
+289
+00:33:48,315 --> 00:33:50,651
+<font color=#00FF40>Where did you
+get this from? Huh?</font>
+
+290
+00:33:52,820 --> 00:33:56,115
+<font color=#00FF40>It was just lying around
+in the planetarium,
+on the shelf</font>
+
+291
+00:33:56,490 --> 00:33:57,783
+<font color=#00FF40>Fiddler...</font>
+
+292
+00:33:58,742 --> 00:34:00,786
+<font color=#00FF40>My dear little klepto</font>
+
+293
+00:34:00,828 --> 00:34:03,122
+<font color=#00FF40>You've pinched
+a gravitsapa!</font>
+
+294
+00:34:54,089 --> 00:34:54,924
+<font color=#FF8000>Patsaks!</font>
+
+295
+00:34:55,966 --> 00:34:58,093
+<font color=#FF8000>Why are you
+singing standing up?</font>
+
+296
+00:34:58,719 --> 00:35:00,179
+<font color=#FF8000>It's only allowed over there</font>
+
+297
+00:35:01,680 --> 00:35:03,933
+<font color=#00FF40>The Etselop didn't
+let us sing there</font>
+
+298
+00:35:04,391 --> 00:35:07,478
+<font color=#FF8000>Here you can only
+sing on your knees</font>
+
+299
+00:35:07,853 --> 00:35:09,355
+<font color=#00FF40>We're fine as we are</font>
+
+300
+00:35:10,105 --> 00:35:12,274
+<font color=#00FF40>Come on,
+give us money</font>
+
+301
+00:35:20,658 --> 00:35:22,409
+<font color=#FF8000>Now, now, be good</font>
+
+302
+00:35:43,848 --> 00:35:46,684
+<font color=#00FF40>Strangers in the Koo.</font>
+
+303
+00:36:00,948 --> 00:36:01,699
+<font color=#00FF40>Uncle Vova,</font>
+
+304
+00:36:03,450 --> 00:36:06,287
+<font color=#00FF40>here is your coat...
+it's walking, wearing my hat</font>
+
+305
+00:36:07,246 --> 00:36:08,205
+<font color=#00FF40>Hi!</font>
+
+306
+00:36:10,916 --> 00:36:11,750
+<font color=#FF8000>How's life?</font>
+
+307
+00:36:15,421 --> 00:36:18,757
+<font color=#FF8000>What's new on Pluk?</font>
+
+308
+00:36:23,387 --> 00:36:24,096
+<font color=#00FF40>Sing</font>
+
+309
+00:36:29,894 --> 00:36:31,812
+<font color=#00FF40>I'm having a bad voice day</font>
+
+310
+00:36:33,355 --> 00:36:34,190
+<font color=#FF8000>Sing!</font>
+
+311
+00:37:45,928 --> 00:37:47,096
+<font color=#00FF40>Vladimir Nicolaevich</font>
+
+312
+00:37:48,305 --> 00:37:49,348
+<font color=#00FF40>I can't stand
+this any longer</font>
+
+313
+00:37:50,432 --> 00:37:51,433
+<font color=#00FF40>Calm down, Fiddler</font>
+
+314
+00:37:54,937 --> 00:37:55,980
+<font color=#00FF40>How much is this?</font>
+
+315
+00:37:58,232 --> 00:37:59,859
+<font color=#00FF40>I think we've
+made enough</font>
+
+316
+00:38:02,653 --> 00:38:03,237
+<font color=#00FF40>How much is this one?</font>
+
+317
+00:38:11,036 --> 00:38:11,871
+<font color=#00FF40>Estelop!</font>
+
+318
+00:38:21,964 --> 00:38:22,673
+<font color=#00FF40>Patsaks!</font>
+
+319
+00:38:24,216 --> 00:38:25,759
+<font color=#00FF40>Why aren't you
+wearing muzzles?</font>
+
+320
+00:38:27,428 --> 00:38:28,262
+<font color=#FF8000>Turn around</font>
+
+321
+00:38:29,430 --> 00:38:31,223
+<font color=#FF8000>New order
+from Mr PG -</font>
+
+322
+00:38:31,932 --> 00:38:34,768
+<font color=#FF8000>all Patsaks must
+now wear muzzles</font>
+
+323
+00:38:35,603 --> 00:38:36,854
+<font color=#FF8000>and be happy</font>
+
+324
+00:38:37,605 --> 00:38:39,273
+<font color=#FF8000>This is for me,</font>
+
+325
+00:38:39,982 --> 00:38:41,358
+<font color=#FF8000>this is for you</font>
+
+326
+00:38:43,194 --> 00:38:44,612
+<font color=#FF8000>and this is for you</font>
+
+327
+00:38:45,321 --> 00:38:46,697
+<font color=#FF8000>Why aren't you happy?</font>
+
+328
+00:38:47,448 --> 00:38:49,366
+<font color=#FF8000>Answer me!</font>
+
+329
+00:38:53,496 --> 00:38:55,623
+<font color=#00FF40>Come on, Chatlan,
+get your tranglucator</font>
+
+330
+00:39:00,252 --> 00:39:01,212
+<font color=#FF8000>Put it on</font>
+
+331
+00:39:01,795 --> 00:39:02,505
+<font color=#00FF40>Yes, sir!</font>
+
+332
+00:39:02,505 --> 00:39:04,173
+<font color=#FF8000>And be happy</font>
+
+333
+00:39:05,716 --> 00:39:06,675
+<font color=#00FF40>I'm so happy!</font>
+
+334
+00:39:08,219 --> 00:39:09,512
+<font color=#00FF40>Look, PG is here!</font>
+
+335
+00:39:11,305 --> 00:39:12,515
+<font color=#00FF40>Where?</font>
+
+336
+00:39:18,062 --> 00:39:19,814
+<font color=#00FF40>Get up!</font>
+
+337
+00:39:21,982 --> 00:39:23,192
+<font color=#00FF40>Get up!</font>
+
+338
+00:39:24,860 --> 00:39:26,070
+<font color=#00FF40>Open your mouth!</font>
+
+339
+00:39:27,238 --> 00:39:28,405
+<font color=#00FF40>Open wider!</font>
+
+340
+00:39:29,615 --> 00:39:30,407
+<font color=#00FF40>Fiddler</font>
+
+341
+00:39:31,325 --> 00:39:32,827
+<font color=#00FF40>Get me a gag</font>
+
+342
+00:39:34,870 --> 00:39:36,413
+<font color=#00FF40>Quick!</font>
+
+343
+00:39:40,751 --> 00:39:42,336
+<font color=#00FF40>Turn around!</font>
+
+344
+00:39:44,880 --> 00:39:46,423
+<font color=#00FF40>Nose</font>
+
+345
+00:39:48,676 --> 00:39:50,928
+<font color=#00FF40>Give back our money</font>
+
+346
+00:39:52,972 --> 00:39:54,807
+<font color=#00FF40>Here, hold this</font>
+
+347
+00:39:58,435 --> 00:39:59,854
+<font color=#00FF40>Take this off</font>
+
+348
+00:40:02,773 --> 00:40:05,943
+<font color=#00FF40>If you think it's
+not a tranglucator</font>
+
+349
+00:40:06,068 --> 00:40:08,571
+<font color=#00FF40>it will be the last thought
+in your Chatlan head</font>
+
+350
+00:40:09,905 --> 00:40:12,074
+<font color=#00FF40>Show us the shortest
+way to the etsih</font>
+
+351
+00:40:12,283 --> 00:40:13,117
+<font color=#00FF40>Go!</font>
+
+352
+00:40:14,326 --> 00:40:17,621
+<font color=#00FF40>Everybody down!
+Stay there for half an hour</font>
+
+353
+00:40:22,501 --> 00:40:23,252
+<font color=#00FF40>Move!</font>
+
+354
+00:40:23,377 --> 00:40:24,587
+<font color=#00FF40>Move!</font>
+
+355
+00:40:26,130 --> 00:40:27,214
+<font color=#00FF40>Faster!</font>
+
+356
+00:40:37,975 --> 00:40:39,852
+<font color=#00FF40>Excuse us, granny</font>
+
+357
+00:40:50,321 --> 00:40:52,531
+<font color=#FF8000>That was PG's mother</font>
+
+358
+00:41:20,434 --> 00:41:22,937
+<font color=#00FF40>Is it a video of PG?</font>
+
+359
+00:41:23,020 --> 00:41:24,605
+<font color=#FF8000>No. It's the man himself</font>
+
+360
+00:41:26,357 --> 00:41:28,484
+<font color=#00FF40>Everybody
+get in the tub, now!</font>
+
+361
+00:41:41,914 --> 00:41:43,249
+<font color=#00FF40>Open the door</font>
+
+362
+00:41:46,752 --> 00:41:48,170
+<font color=#00FF40>Stay there for 24 hours</font>
+
+363
+00:41:48,838 --> 00:41:50,881
+<font color=#00FF40>Koo, or not koo?</font>
+
+364
+00:42:18,450 --> 00:42:20,244
+<font color=#FF8000>Here it is</font>
+
+365
+00:42:26,625 --> 00:42:27,376
+<font color=#FF8000>Which number?</font>
+
+366
+00:42:27,626 --> 00:42:28,377
+<font color=#00FF40>The last one</font>
+
+367
+00:42:57,323 --> 00:42:57,990
+<font color=#00FF40>Hello</font>
+
+368
+00:43:01,952 --> 00:43:03,370
+<font color=#00FF40>Hey, Chatlan</font>
+
+369
+00:43:04,079 --> 00:43:04,622
+<font color=#00FF40>Sing</font>
+
+370
+00:43:05,748 --> 00:43:06,707
+<font color=#00FF40>Fiddler, stop it</font>
+
+371
+00:43:10,920 --> 00:43:12,087
+<font color=#00FF40>Last but one then</font>
+
+372
+00:43:25,017 --> 00:43:25,726
+<font color=#00FF40>Get lost!</font>
+
+373
+00:43:42,910 --> 00:43:45,412
+<font color=#00FF40>Hello,
+Gedevan Alexandrovich</font>
+
+374
+00:43:46,413 --> 00:43:47,373
+<font color=#FF8000>Hello</font>
+
+375
+00:43:49,959 --> 00:43:50,543
+<font color=#00FF40>Get out of there</font>
+
+376
+00:43:53,838 --> 00:43:54,755
+<font color=#00FF40>We can't</font>
+
+377
+00:43:55,256 --> 00:43:57,299
+<font color=#FF8000>They'll catch us again</font>
+
+378
+00:44:02,471 --> 00:44:03,055
+<font color=#00FF40>Stop</font>
+
+379
+00:44:07,434 --> 00:44:09,145
+<font color=#00FF40>We have a gravitsapa</font>
+
+380
+00:44:24,410 --> 00:44:25,536
+<font color=#FF8000>Koo, Uncle Vova!</font>
+
+381
+00:44:28,247 --> 00:44:30,040
+<font color=#00FF40>Cut it</font>
+
+382
+00:44:31,750 --> 00:44:33,252
+<font color=#00FF40>Right here</font>
+
+383
+00:44:41,135 --> 00:44:42,303
+<font color=#FF8000>All together now!</font>
+
+384
+00:44:52,980 --> 00:44:56,233
+<font color=#00FF40>Uncle Vova, help me
+with the etsih</font>
+
+385
+00:44:57,943 --> 00:44:58,611
+<font color=#00FF40>Leave it!</font>
+
+386
+00:44:59,987 --> 00:45:01,530
+<font color=#00FF40>Vladimir Nicolaevich!</font>
+
+387
+00:45:01,697 --> 00:45:06,160
+<font color=#00FF40>Humankind worked for
+millenia just to get one
+stone from the Moon</font>
+
+388
+00:45:06,243 --> 00:45:09,038
+<font color=#00FF40>And here we have
+a live alien and an etsih</font>
+
+389
+00:45:09,038 --> 00:45:11,123
+<font color=#00FF40>made of an unknown metal!</font>
+
+390
+00:45:12,541 --> 00:45:14,251
+<font color=#00FF40>I said, leave it!</font>
+
+391
+00:45:35,439 --> 00:45:35,981
+<font color=#FF8000>Tsapa</font>
+
+392
+00:45:36,899 --> 00:45:38,067
+<font color=#00FF40>Yes sir, tsapa</font>
+
+393
+00:45:40,361 --> 00:45:41,737
+<font color=#FF8000>Tsapa!</font>
+
+394
+00:45:41,821 --> 00:45:42,863
+<font color=#00FF40>Press the tsapa!</font>
+
+395
+00:45:42,863 --> 00:45:44,031
+<font color=#00FF40>I did!</font>
+
+396
+00:45:48,244 --> 00:45:49,203
+<font color=#00FF40>Are we flying?</font>
+
+397
+00:45:49,787 --> 00:45:50,538
+<font color=#00FF40>Starting her up...</font>
+
+398
+00:45:50,871 --> 00:45:54,542
+<font color=#00FF40>Come on, gentlemen,
+before they come
+to their senses!</font>
+
+399
+00:45:54,708 --> 00:45:56,752
+<font color=#FF8000>You're not helping!</font>
+
+400
+00:46:19,316 --> 00:46:21,026
+<font color=#00FF40>And we've landed</font>
+
+401
+00:46:21,527 --> 00:46:23,028
+<font color=#00FF40>Landed where?</font>
+
+402
+00:46:25,823 --> 00:46:27,283
+<font color=#FF8000>Hanut</font>
+
+403
+00:46:29,034 --> 00:46:30,661
+<font color=#00FF40>What's Hanut?</font>
+
+404
+00:46:31,120 --> 00:46:33,247
+<font color=#FF8000>The planet where
+I was born</font>
+
+405
+00:46:33,664 --> 00:46:35,249
+<font color=#00FF40>And me</font>
+
+406
+00:46:37,710 --> 00:46:38,794
+<font color=#00FF40>It's night</font>
+
+407
+00:46:38,836 --> 00:46:41,130
+<font color=#FF8000>Now it's always night here</font>
+
+408
+00:46:41,338 --> 00:46:42,381
+<font color=#00FF40>Put this on</font>
+
+409
+00:46:42,464 --> 00:46:43,507
+<font color=#00FF40>Why?</font>
+
+410
+00:46:43,632 --> 00:46:45,801
+<font color=#00FF40>There's no bloody air here</font>
+
+411
+00:46:46,468 --> 00:46:48,179
+<font color=#00FF40>So how do you live here?</font>
+
+412
+00:46:48,596 --> 00:46:51,682
+<font color=#FF8000>Nobody has lived here for ages</font>
+
+413
+00:46:52,057 --> 00:46:55,060
+<font color=#FF8000>Plukans trangluked the planet...</font>
+
+414
+00:46:55,311 --> 00:46:56,896
+<font color=#00FF40>while we were on tour</font>
+
+415
+00:46:57,104 --> 00:46:58,230
+<font color=#00FF40>Why?</font>
+
+416
+00:46:58,564 --> 00:47:00,483
+<font color=#00FF40>Because we did
+not get them first</font>
+
+417
+00:47:00,691 --> 00:47:02,610
+<font color=#00FF40>Why did you want
+to get them?</font>
+
+418
+00:47:02,735 --> 00:47:05,321
+<font color=#FF8000>So they'd stop bugging
+us with their existense</font>
+
+419
+00:47:06,280 --> 00:47:07,323
+<font color=#00FF40>Did everybody die?</font>
+
+420
+00:47:07,531 --> 00:47:09,408
+<font color=#FF8000>Of course</font>
+
+421
+00:47:10,326 --> 00:47:13,078
+<font color=#00FF40>Vovka, I have a proposition</font>
+
+422
+00:47:13,287 --> 00:47:15,414
+<font color=#00FF40>This planet now costs peanuts</font>
+
+423
+00:47:15,581 --> 00:47:16,790
+<font color=#FF8000>63 chatls</font>
+
+424
+00:47:17,082 --> 00:47:19,919
+<font color=#00FF40>We'll tour the galaxy for a
+month singing 'Mother, Mother'...</font>
+
+425
+00:47:20,044 --> 00:47:21,504
+<font color=#00FF40>and the planet is ours!</font>
+
+426
+00:47:21,879 --> 00:47:23,756
+<font color=#00FF40>Another month and we'll
+even be able to buy air</font>
+
+427
+00:47:24,298 --> 00:47:25,841
+<font color=#FF8000>93 chatls</font>
+
+428
+00:47:26,258 --> 00:47:27,927
+<font color=#00FF40>Everyone who has no air</font>
+
+429
+00:47:28,344 --> 00:47:30,012
+<font color=#00FF40>will rush straight here</font>
+
+430
+00:47:30,054 --> 00:47:31,555
+<font color=#00FF40>The air belongs to us</font>
+
+431
+00:47:31,639 --> 00:47:34,517
+<font color=#FF8000>They will crawl before us,
+and we will spit on them</font>
+
+432
+00:47:35,226 --> 00:47:36,143
+<font color=#00FF40>What for?</font>
+
+433
+00:47:36,477 --> 00:47:37,895
+<font color=#FF8000>For fun</font>
+
+434
+00:47:38,521 --> 00:47:39,980
+<font color=#00FF40>What kind of fun is that?</font>
+
+435
+00:47:41,857 --> 00:47:42,817
+<font color=#00FF40>He's so young</font>
+
+436
+00:47:43,234 --> 00:47:46,737
+<font color=#FF8000>Half of the planet could be
+yours, the other half ours. OK?</font>
+
+437
+00:47:49,281 --> 00:47:51,784
+<font color=#00FF40>This is very tempting</font>
+
+438
+00:47:52,827 --> 00:47:54,912
+<font color=#00FF40>But we need to
+go back to Earth</font>
+
+439
+00:47:55,871 --> 00:47:59,500
+<font color=#00FF40>Let's move, the supermarket
+shuts in half an hour</font>
+
+440
+00:48:03,254 --> 00:48:05,589
+<font color=#FF8000>Vovka, relax</font>
+
+441
+00:48:09,218 --> 00:48:10,803
+<font color=#00FF40>Look</font>
+
+442
+00:48:14,431 --> 00:48:16,225
+<font color=#00FF40>We're here</font>
+
+443
+00:48:16,976 --> 00:48:18,352
+<font color=#00FF40>Earth is there</font>
+
+444
+00:48:18,644 --> 00:48:20,187
+<font color=#FF8000>And there is Alpha</font>
+
+445
+00:48:20,771 --> 00:48:23,566
+<font color=#00FF40>On Alpha they turn
+us into cactuses</font>
+
+446
+00:48:24,191 --> 00:48:26,652
+<font color=#00FF40>Earth is in
+anti-tentura, dear</font>
+
+447
+00:48:27,278 --> 00:48:30,656
+<font color=#00FF40>We cannot get
+there, understand?</font>
+
+448
+00:48:31,866 --> 00:48:32,741
+<font color=#00FF40>Why?</font>
+
+449
+00:48:33,117 --> 00:48:36,287
+<font color=#00FF40>That's how it is.
+It's just my luck really</font>
+
+450
+00:48:37,496 --> 00:48:40,207
+<font color=#FF8000>A Pepelats can't
+get to Earth!</font>
+
+451
+00:48:41,167 --> 00:48:42,668
+<font color=#FF8000>So quit arguing</font>
+
+452
+00:48:42,877 --> 00:48:44,170
+<font color=#FF8000>Ok?</font>
+
+453
+00:48:44,712 --> 00:48:47,298
+<font color=#FF8000>Let's go and decide how
+we will share the planet</font>
+
+454
+00:48:57,892 --> 00:49:00,603
+<font color=#00FF40>Did you learn about
+this in the planetarium?</font>
+
+455
+00:49:00,853 --> 00:49:02,730
+<font color=#00FF40>Yes mate</font>
+
+456
+00:49:03,481 --> 00:49:06,233
+<font color=#00FF40>That's why you
+stole the match?</font>
+
+457
+00:49:06,775 --> 00:49:08,152
+<font color=#FF8000>Of course</font>
+
+458
+00:49:08,486 --> 00:49:10,905
+<font color=#00FF40>Uncle Vova,
+they're lying!</font>
+
+459
+00:49:12,323 --> 00:49:14,617
+<font color=#00FF40>Don't believe them</font>
+
+460
+00:49:16,243 --> 00:49:18,871
+<font color=#00FF40>Get us to Earth, now!</font>
+
+461
+00:49:19,997 --> 00:49:21,749
+<font color=#00FF40>No, Gedevan</font>
+
+462
+00:49:21,999 --> 00:49:23,792
+<font color=#00FF40>They're not lying</font>
+
+463
+00:49:24,210 --> 00:49:30,257
+<font color=#00FF40>They'd crawl across the Universe
+on their stomachs for a
+chance to get some matches</font>
+
+464
+00:49:47,983 --> 00:49:50,778
+<font color=#00FF40>Vovka, it's a
+silly thing to do</font>
+
+465
+00:49:51,445 --> 00:49:54,490
+<font color=#00FF40>This air has
+only 2% oxygen</font>
+
+466
+00:51:00,139 --> 00:51:02,057
+<font color=#00FF40>Gedevan</font>
+
+467
+00:51:03,350 --> 00:51:06,604
+<font color=#00FF40>Don't do this,
+you're so young.
+Live!</font>
+
+468
+00:51:07,188 --> 00:51:09,273
+<font color=#00FF40>Maybe things will change</font>
+
+469
+00:51:11,317 --> 00:51:15,154
+<font color=#00FF40>Fiddler isn't needed, Uncle Vova</font>
+
+470
+00:51:32,546 --> 00:51:33,422
+<font color=#FF8000>Patsak!</font>
+
+471
+00:51:39,595 --> 00:51:41,931
+<font color=#FF8000>You're going to
+die in a moment</font>
+
+472
+00:51:43,808 --> 00:51:46,060
+<font color=#FF8000>so tell us the
+truth for once</font>
+
+473
+00:51:46,685 --> 00:51:51,649
+<font color=#FF8000>Why didn't you teleport
+home with that jerk
+while you could?</font>
+
+474
+00:51:52,441 --> 00:51:54,401
+<font color=#FF8000>What did you want?</font>
+
+475
+00:51:55,861 --> 00:51:57,321
+<font color=#FF8000>Purple pants?</font>
+
+476
+00:51:57,947 --> 00:51:59,406
+<font color=#FF8000>PG's bathtub?</font>
+
+477
+00:51:59,865 --> 00:52:01,992
+<font color=#FF8000>Tell us,
+what did you want?</font>
+
+478
+00:52:08,999 --> 00:52:10,918
+<font color=#FF8000>Gedevan,
+dear friend</font>
+
+479
+00:52:12,628 --> 00:52:13,879
+<font color=#FF8000>You tell me</font>
+
+480
+00:52:14,004 --> 00:52:16,674
+<font color=#FF8000>You can tell me,
+I'm one of us</font>
+
+481
+00:52:16,882 --> 00:52:19,718
+<font color=#FF8000>My mother was Georgian</font>
+
+482
+00:52:31,230 --> 00:52:35,985
+<font color=#00FF40>He says his mother
+was a local Georgian</font>
+
+483
+00:52:36,318 --> 00:52:37,570
+<font color=#00FF40>Uef!</font>
+
+484
+00:52:38,112 --> 00:52:39,363
+<font color=#00FF40>I don't care</font>
+
+485
+00:52:39,572 --> 00:52:43,325
+<font color=#00FF40>I will koo them to Alpha!</font>
+
+486
+00:52:44,577 --> 00:52:46,328
+<font color=#00FF40>And you,
+lousy Chatlan</font>
+
+487
+00:52:46,328 --> 00:52:47,454
+<font color=#00FF40>put on the tsak</font>
+
+488
+00:52:47,454 --> 00:52:50,207
+<font color=#00FF40>and squat when you
+talk to a Patsak!</font>
+
+489
+00:52:50,332 --> 00:52:53,127
+<font color=#00FF40>Hanut is a Patsak
+planet mate</font>
+
+490
+00:52:57,047 --> 00:52:58,424
+<font color=#00FF40>Say it again</font>
+
+491
+00:52:59,592 --> 00:53:01,886
+<font color=#00FF40>You will
+catapult us to Alpha</font>
+
+492
+00:53:02,052 --> 00:53:05,347
+<font color=#00FF40>and try to stop
+the ship in its orbit</font>
+
+493
+00:53:06,098 --> 00:53:07,641
+<font color=#FF8000>There's no way we
+can break over there!</font>
+
+494
+00:53:07,683 --> 00:53:09,310
+<font color=#00FF40>Don't interrupt</font>
+
+495
+00:53:11,770 --> 00:53:13,439
+<font color=#00FF40>Carry on mate</font>
+
+496
+00:53:14,106 --> 00:53:17,943
+<font color=#00FF40>On Alpha, while they
+transport us to Earth</font>
+
+497
+00:53:18,152 --> 00:53:21,780
+<font color=#00FF40>we will hold on to the bottom of
+the space-transportation gadget</font>
+
+498
+00:53:21,864 --> 00:53:24,366
+<font color=#00FF40>and the gadget will
+transport with us</font>
+
+499
+00:53:24,533 --> 00:53:25,659
+<font color=#00FF40>On Earth,...</font>
+
+500
+00:53:25,784 --> 00:53:29,830
+<font color=#00FF40>we will buy you
+4 crates of matches</font>
+
+501
+00:53:31,415 --> 00:53:32,917
+<font color=#00FF40>Carry on mate</font>
+
+502
+00:53:33,334 --> 00:53:36,295
+<font color=#00FF40>How many times do
+we have to go over it?</font>
+
+503
+00:53:36,712 --> 00:53:37,546
+<font color=#00FF40>Let's go</font>
+
+504
+00:53:38,130 --> 00:53:41,842
+<font color=#FF8000>Because of you I will spend
+an eternity in a plant pot</font>
+
+505
+00:53:45,137 --> 00:53:47,807
+<font color=#FF8000>and you can't
+even do this for us</font>
+
+506
+00:53:52,436 --> 00:53:55,356
+<font color=#00FF40>My dear, good friends</font>
+
+507
+00:53:55,731 --> 00:53:58,484
+<font color=#00FF40>Lets' fly already or
+at least close this door</font>
+
+508
+00:53:59,777 --> 00:54:02,154
+<font color=#FF8000>I can't stand the sight
+of you any longer</font>
+
+509
+00:54:02,905 --> 00:54:05,282
+<font color=#00FF40>I'm going to be sick
+any moment now</font>
+
+510
+00:54:10,830 --> 00:54:12,748
+<font color=#00FF40>So long mate</font>
+
+511
+00:54:19,964 --> 00:54:20,923
+<font color=#00FF40>And we're flying</font>
+
+512
+00:54:21,590 --> 00:54:22,508
+<font color=#FF8000>Break!</font>
+
+513
+00:54:24,218 --> 00:54:25,052
+<font color=#FF8000>Break!</font>
+
+514
+00:54:26,595 --> 00:54:27,638
+<font color=#FF8000>Break!</font>
+
+515
+00:54:27,888 --> 00:54:32,434
+<font color=#00FF40>How can I?
+You've drunk all our
+breaking fluid! Alcoholic</font>
+
+516
+00:54:33,936 --> 00:54:35,563
+<font color=#00FF40>Can't be good for him</font>
+
+517
+00:54:35,938 --> 00:54:37,773
+<font color=#00FF40>Turn off your antlers</font>
+
+518
+00:54:37,773 --> 00:54:39,066
+<font color=#00FF40>They can't be turned off</font>
+
+519
+00:54:39,233 --> 00:54:40,526
+<font color=#00FF40>Take them off then</font>
+
+520
+00:54:40,693 --> 00:54:42,069
+<font color=#00FF40>They might break</font>
+
+521
+00:54:44,780 --> 00:54:46,240
+<font color=#00FF40>I think we've landed</font>
+
+522
+00:54:46,991 --> 00:54:48,242
+<font color=#00FF40>That's how it
+was the last time</font>
+
+523
+00:54:48,367 --> 00:54:49,827
+<font color=#00FF40>All right</font>
+
+524
+00:54:50,703 --> 00:54:52,246
+<font color=#00FF40>Put on your
+gas mask</font>
+
+525
+00:54:52,329 --> 00:54:53,414
+<font color=#00FF40>What about tsak?</font>
+
+526
+00:54:53,497 --> 00:54:55,374
+<font color=#00FF40>No, they'll have
+to do without</font>
+
+527
+00:55:01,422 --> 00:55:03,048
+<font color=#00FF40>Earth!</font>
+
+528
+00:55:27,948 --> 00:55:33,245
+<font color=#FF8000>''Om the river, om the far river bamk... ''</font>
+
+529
+00:55:38,876 --> 00:55:40,002
+<font color=#00FF40>No</font>
+
+530
+00:55:41,128 --> 00:55:42,963
+<font color=#00FF40>This isn't Earth</font>
+
+531
+00:55:48,093 --> 00:55:49,762
+<font color=#00FF40>Hello</font>
+
+532
+00:55:51,222 --> 00:55:53,516
+<font color=#00FF40>We're Patsaks
+from planet Earth</font>
+
+533
+00:55:53,933 --> 00:55:54,892
+<font color=#00FF40>Who are you?</font>
+
+534
+00:55:55,643 --> 00:55:57,394
+This is planet Alpha
+
+535
+00:55:57,770 --> 00:55:59,897
+Tell Decont here,
+your coordinates
+
+536
+00:56:00,439 --> 00:56:03,317
+and she will transport
+you to the starting point
+
+537
+00:56:03,609 --> 00:56:05,903
+Have a nice day
+
+538
+00:56:07,154 --> 00:56:09,990
+Please give me
+your planet number
+
+539
+00:56:10,658 --> 00:56:13,452
+<font color=#00FF40>013 in tentura</font>
+
+540
+00:56:17,206 --> 00:56:19,583
+<font color=#00FF40>It's somewhere here</font>
+
+541
+00:56:21,126 --> 00:56:23,003
+<font color=#00FF40>To the left of Ursa Major</font>
+
+542
+00:56:23,087 --> 00:56:24,505
+This is not necessary
+
+543
+00:56:24,797 --> 00:56:27,174
+Would you please
+hold your hands
+
+544
+00:56:27,299 --> 00:56:29,844
+<font color=#00FF40>Miss, what did
+you do with them?</font>
+
+545
+00:56:30,636 --> 00:56:32,513
+They are in the
+Second Greenhouse
+
+546
+00:56:32,721 --> 00:56:35,307
+Would you please
+hold your hands
+
+547
+00:56:35,599 --> 00:56:37,852
+<font color=#00FF40>Do you really turn
+people into cactuses?</font>
+
+548
+00:56:37,935 --> 00:56:39,061
+Only people from Pluk
+
+549
+00:56:39,103 --> 00:56:41,564
+<font color=#00FF40>They're not Plukans,
+they're Hanutians</font>
+
+550
+00:56:41,689 --> 00:56:42,815
+This is not relevant
+
+551
+00:56:42,857 --> 00:56:45,985
+Would you please
+put the mask on
+
+552
+00:56:47,278 --> 00:56:47,862
+<font color=#00FF40>Why?</font>
+
+553
+00:56:48,028 --> 00:56:49,280
+<font color=#00FF40>You have beautiful air</font>
+
+554
+00:56:49,405 --> 00:56:50,906
+That's why
+
+555
+00:56:51,740 --> 00:56:52,825
+<font color=#00FF40>Would you get a load of her!</font>
+
+556
+00:56:52,825 --> 00:56:54,285
+<font color=#00FF40>Calm down.
+Put it on</font>
+
+557
+00:56:54,410 --> 00:56:55,327
+<font color=#00FF40>Gedevan!</font>
+
+558
+00:56:58,789 --> 00:57:01,208
+<font color=#00FF40>On behalf of the
+people of Earth, please...</font>
+
+559
+00:57:03,460 --> 00:57:05,462
+<font color=#00FF40>Let them go</font>
+
+560
+00:57:10,676 --> 00:57:13,179
+<font color=#00FF40>Who can make
+this decision?</font>
+
+561
+00:57:14,054 --> 00:57:15,139
+Abradox can
+
+562
+00:57:15,347 --> 00:57:16,307
+But...
+
+563
+00:57:18,225 --> 00:57:19,810
+<font color=#00FF40>Take us to him</font>
+
+564
+00:57:20,144 --> 00:57:20,936
+<font color=#00FF40>Take us to him!</font>
+
+565
+00:57:21,103 --> 00:57:25,941
+<font color=#00FF40>Or I'll take off the
+mask and breathe
+on everything!</font>
+
+566
+00:57:27,985 --> 00:57:29,278
+You shouldn't worry
+
+567
+00:57:29,778 --> 00:57:32,114
+Our greenhouses provide
+the best environment
+
+568
+00:57:32,740 --> 00:57:35,159
+Blossoming, microclimate,
+peace and quiet
+
+569
+00:57:36,827 --> 00:57:38,370
+You should envy them
+
+570
+00:57:39,538 --> 00:57:42,750
+<font color=#00FF40>Then my dear, why do
+you frolic around...</font>
+
+571
+00:57:42,833 --> 00:57:44,752
+<font color=#00FF40>instead of sitting
+in a plant pot?</font>
+
+572
+00:57:44,793 --> 00:57:46,420
+Please watch your step
+
+573
+00:57:46,545 --> 00:57:48,839
+you have already
+broken 3 blades of grass
+
+574
+00:57:48,964 --> 00:57:50,424
+<font color=#00FF40>Friend!</font>
+
+575
+00:57:51,842 --> 00:57:53,344
+<font color=#00FF40>We want to ask
+you something</font>
+
+576
+00:57:53,511 --> 00:57:55,930
+No need to continue
+
+577
+00:57:55,971 --> 00:57:57,431
+No
+
+578
+00:57:58,098 --> 00:58:00,726
+Our proximity to the
+Kin-dza-dza Galaxy...
+
+579
+00:58:01,602 --> 00:58:02,853
+is our greatest problem
+
+580
+00:58:02,978 --> 00:58:05,648
+They are plagued by
+yearnings and desires
+
+581
+00:58:06,482 --> 00:58:08,192
+vile desires!
+
+582
+00:58:08,609 --> 00:58:11,862
+Being transformed
+into plants
+
+583
+00:58:12,613 --> 00:58:14,406
+is much better for them...
+
+584
+00:58:14,990 --> 00:58:16,158
+and for everyone else!
+
+585
+00:58:16,992 --> 00:58:19,328
+<font color=#00FF40>Maybe we should bring
+them here and ask them</font>
+
+586
+00:58:19,411 --> 00:58:22,164
+<font color=#00FF40>Let them decide what's better</font>
+
+587
+00:58:23,874 --> 00:58:28,671
+If we give that sort
+the opportunity to decide
+about anything...
+
+588
+00:58:30,589 --> 00:58:33,676
+<font color=#00FF40>Girly, are you the
+smartest people around?</font>
+
+589
+00:58:34,343 --> 00:58:38,389
+<font color=#00FF40>Did somebody tell you
+or did you decided
+it all on your own?</font>
+
+590
+00:58:38,430 --> 00:58:40,057
+Let's not waste time
+
+591
+00:58:41,559 --> 00:58:43,769
+You are creatures
+from anti-tentura
+
+592
+00:58:44,812 --> 00:58:47,481
+That means I have an
+obligation to transport you...
+
+593
+00:58:48,524 --> 00:58:50,860
+to the starting
+point of your journey
+
+594
+00:58:51,652 --> 00:58:53,988
+Or, we can send
+you back in time...
+
+595
+00:58:54,405 --> 00:58:58,200
+to the moment when you can
+choose your fate for yourselves
+
+596
+00:58:58,242 --> 00:58:59,451
+Make a decision
+
+597
+00:59:00,077 --> 00:59:01,203
+<font color=#00FF40>I don't understand</font>
+
+598
+00:59:01,495 --> 00:59:02,788
+<font color=#00FF40>Back in time?</font>
+
+599
+00:59:03,330 --> 00:59:04,582
+I can send you
+to the past
+
+600
+00:59:04,874 --> 00:59:06,792
+Back to Pluk
+
+601
+00:59:20,389 --> 00:59:22,391
+<font color=#00FF40>Can you send
+one of us to Earth</font>
+
+602
+00:59:22,766 --> 00:59:25,269
+<font color=#00FF40>and the other
+one back in time?</font>
+
+603
+00:59:27,188 --> 00:59:28,147
+<font color=#00FF40>Vladimir Nickolaevich</font>
+
+604
+00:59:28,731 --> 00:59:31,650
+<font color=#00FF40>No way will I let you
+return to Pluk alone</font>
+
+605
+00:59:37,114 --> 00:59:38,491
+<font color=#00FF40>Listen you</font>
+
+606
+00:59:39,033 --> 00:59:40,701
+<font color=#00FF40>send us back in time!</font>
+
+607
+00:59:52,379 --> 00:59:55,674
+<font color=#00FF40>How long was I fixing the
+violin? About 50 minutes?</font>
+
+608
+00:59:56,425 --> 00:59:58,010
+<font color=#00FF40>About 50</font>
+
+609
+01:00:02,681 --> 01:00:03,849
+<font color=#00FF40>Brother Patsak</font>
+
+610
+01:00:04,391 --> 01:00:05,851
+<font color=#00FF40>a guy with a sock
+will be here soon</font>
+
+611
+01:00:05,893 --> 01:00:07,520
+<font color=#00FF40>Tell him to meet
+us at the etsih</font>
+
+612
+01:00:07,937 --> 01:00:08,938
+<font color=#00FF40>Do you know the etsih?</font>
+
+613
+01:00:08,979 --> 01:00:09,522
+<font color=#00FF40>Sure</font>
+
+614
+01:00:10,564 --> 01:00:11,607
+<font color=#00FF40>Will you show us?</font>
+
+615
+01:00:11,857 --> 01:00:13,651
+<font color=#00FF40>Give me something else then</font>
+
+616
+01:00:14,318 --> 01:00:16,570
+<font color=#00FF40>Everybody, rest
+for half an hour!</font>
+
+617
+01:00:20,741 --> 01:00:22,493
+<font color=#00FF40>Thank you friends</font>
+
+618
+01:00:38,968 --> 01:00:40,886
+<font color=#00FF40>Carry on playing, boys</font>
+
+619
+01:00:54,150 --> 01:00:56,068
+<font color=#00FF40>Fiddler, hurry up!</font>
+
+620
+01:00:58,237 --> 01:01:00,865
+<font color=#00FF40>Not again! You bitches!</font>
+
+621
+01:01:01,115 --> 01:01:02,533
+<font color=#00FF40>Yep.
+Now get out of there</font>
+
+622
+01:01:02,658 --> 01:01:03,534
+<font color=#FF8000>Like hell!</font>
+
+623
+01:01:04,785 --> 01:01:06,829
+<font color=#FF8000>It's better here
+than on Alpha</font>
+
+624
+01:01:06,954 --> 01:01:08,539
+<font color=#00FF40>Get them out</font>
+
+625
+01:01:16,380 --> 01:01:19,425
+<font color=#00FF40>We'll have a space-transport
+gizmo in a minute</font>
+
+626
+01:01:19,884 --> 01:01:21,051
+<font color=#00FF40>Vladimir Nickolaevich!</font>
+
+627
+01:01:21,302 --> 01:01:23,637
+<font color=#00FF40>You owe us 11,000 boxes</font>
+
+628
+01:01:23,679 --> 01:01:25,347
+<font color=#00FF40>Fiddler has it
+written down</font>
+
+629
+01:01:25,389 --> 01:01:27,099
+<font color=#FF8000>11,020</font>
+
+630
+01:01:27,766 --> 01:01:29,101
+<font color=#FF8000>I have a proposition</font>
+
+631
+01:01:29,268 --> 01:01:30,102
+<font color=#FF8000>Vovka</font>
+
+632
+01:01:30,311 --> 01:01:31,729
+<font color=#FF8000>We will transport together</font>
+
+633
+01:01:32,021 --> 01:01:33,481
+<font color=#FF8000>right into the
+supermarket</font>
+
+634
+01:01:33,606 --> 01:01:35,274
+<font color=#FF8000>and after we
+buy everything...</font>
+
+635
+01:01:35,483 --> 01:01:36,442
+<font color=#00FF40>There is no 'after'</font>
+
+636
+01:01:37,318 --> 01:01:39,570
+<font color=#00FF40>We're only going to Earth</font>
+
+637
+01:01:41,655 --> 01:01:42,406
+<font color=#FF8000>Forever?</font>
+
+638
+01:01:44,116 --> 01:01:44,867
+<font color=#00FF40>Forever</font>
+
+639
+01:01:46,869 --> 01:01:50,414
+<font color=#FF8000>Me, on a planet where
+they don't know who has to
+squat in front of whom?</font>
+
+640
+01:01:50,706 --> 01:01:51,624
+<font color=#FF8000>Nonsense</font>
+
+641
+01:01:51,790 --> 01:01:53,834
+<font color=#FF8000>Give us the gravitsapa
+and you do what you want</font>
+
+642
+01:01:53,876 --> 01:01:55,503
+<font color=#00FF40>Uncle Uef, uncle Bee,</font>
+
+643
+01:01:55,794 --> 01:01:57,171
+<font color=#00FF40>You will be very welcome there!</font>
+
+644
+01:01:57,379 --> 01:01:58,464
+<font color=#00FF40>No, my friend</font>
+
+645
+01:01:58,881 --> 01:02:02,384
+<font color=#00FF40>A society without the colour
+differentiation of pants...</font>
+
+646
+01:02:02,593 --> 01:02:04,261
+<font color=#00FF40>is a society without purpose</font>
+
+647
+01:02:04,386 --> 01:02:05,805
+<font color=#00FF40>And without a purpose...</font>
+
+648
+01:02:05,805 --> 01:02:08,891
+<font color=#00FF40>Enough with the philosophy,
+he's going to appear soon</font>
+
+649
+01:02:09,058 --> 01:02:10,976
+<font color=#00FF40>Make up your mind</font>
+
+650
+01:02:11,727 --> 01:02:12,603
+<font color=#00FF40>Are you going with us?</font>
+
+651
+01:02:12,895 --> 01:02:15,231
+<font color=#FF8000>Just give us
+the gravitsapa!</font>
+
+652
+01:02:18,526 --> 01:02:19,777
+<font color=#00FF40>Give it to them</font>
+
+653
+01:02:22,988 --> 01:02:24,031
+<font color=#00FF40>Pity</font>
+
+654
+01:02:34,667 --> 01:02:36,168
+<font color=#00FF40>So</font>
+
+655
+01:02:37,002 --> 01:02:40,297
+<font color=#00FF40>We should say our farewells</font>
+
+656
+01:02:43,843 --> 01:02:46,053
+<font color=#00FF40>I kind of got used to you</font>
+
+657
+01:02:48,055 --> 01:02:49,765
+<font color=#00FF40>Me too</font>
+
+658
+01:03:09,034 --> 01:03:10,161
+<font color=#00FF40>Well</font>
+
+659
+01:03:10,369 --> 01:03:12,121
+<font color=#00FF40>Take care</font>
+
+660
+01:03:12,413 --> 01:03:14,081
+<font color=#00FF40>Friends!</font>
+
+661
+01:03:15,040 --> 01:03:15,708
+<font color=#00FF40>Patsaks!</font>
+
+662
+01:03:17,376 --> 01:03:19,295
+<font color=#00FF40>Here is your sock
+back, thank you</font>
+
+663
+01:03:20,921 --> 01:03:22,089
+<font color=#00FF40>If you wish...</font>
+
+664
+01:03:22,089 --> 01:03:22,715
+<font color=#FF8000>Friend!</font>
+
+665
+01:03:23,215 --> 01:03:25,843
+<font color=#FF8000>What system is your gadget?</font>
+
+666
+01:03:26,969 --> 01:03:29,430
+<font color=#FF8000>Might I take a look?</font>
+
+667
+01:03:30,139 --> 01:03:31,724
+<font color=#00FF40>Regular system</font>
+
+668
+01:03:31,849 --> 01:03:34,518
+<font color=#00FF40>You press a button
+- and you're home</font>
+
+669
+01:03:51,452 --> 01:03:51,827
+Hi
+
+670
+01:03:52,870 --> 01:03:53,579
+Hi
+
+671
+01:03:54,038 --> 01:03:54,872
+How was your day?
+
+672
+01:03:55,623 --> 01:03:59,919
+Some pipes burst at
+Manokhin's building site
+
+673
+01:04:16,477 --> 01:04:29,198
+''Mother, mother, what will we do,
+Mother, mother, how will we live?''
+
+674
+01:04:36,622 --> 01:04:37,540
+How's our A-student?
+
+675
+01:04:38,415 --> 01:04:39,625
+He's out with friends
+
+676
+01:04:40,042 --> 01:04:42,294
+Vovka! I forgot to buy
+bread, will you go?
+
+677
+01:04:45,005 --> 01:04:46,841
+And buy some noodles!
+
+678
+01:05:05,860 --> 01:05:06,694
+Comrade
+
+679
+01:05:07,444 --> 01:05:08,779
+How could I get to
+the Old Arbat street?
+
+680
+01:05:09,446 --> 01:05:10,865
+Turn right over there
+
+681
+01:05:10,948 --> 01:05:12,616
+Thank you
+
+682
+01:05:36,223 --> 01:05:37,892
+Fiddler?
+
+683
+01:05:42,521 --> 01:05:44,607
+Uncle Vova?
+
+684
+01:05:51,030 --> 01:05:52,615
+Fiddler!
+
+685
+01:05:55,367 --> 01:05:56,535
+Uncle Vova!
+
+686
+01:06:31,779 --> 01:06:35,950
+The End
+
